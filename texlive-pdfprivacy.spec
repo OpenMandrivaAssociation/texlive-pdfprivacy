@@ -3,7 +3,7 @@ Version:	45985
 Release:	2
 Summary:	A LaTeX package to remove or suppress pdf meta-data
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pdfprivacy
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pdfprivacy
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pdfprivacy.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pdfprivacy.doc.r%{version}.tar.xz
